@@ -1,0 +1,22 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               'Stephen Van Dahm'
+tagline:             'software developer'
+description:         'Stephen is a software developer in Minneapolis.'
+url:                 http://vandahm.com
+baseurl:             ""
+paginate:            5
+
+# About/contact
+author:
+  name:              Stephen Van Dahm
+  url:               http://vandahm.com
+  email:             vandahm@gmail.com
+
+# Custom vars
+version:             1.0.0
